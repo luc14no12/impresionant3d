@@ -1,0 +1,21 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+main {
+    flex-grow: 1;
+}
+
+.listaFooter {
+    list-style: none;
+    padding: 0px;
+}
+.carouselProductos{
+    height: 400px;
+    object-fit: cover;
+}
+
